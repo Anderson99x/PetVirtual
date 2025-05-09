@@ -1,0 +1,15 @@
+/workspaces/PetVirtual/PetVirtual/bin/Debug/net8.0/PetVirtual
+/workspaces/PetVirtual/PetVirtual/bin/Debug/net8.0/PetVirtual.deps.json
+/workspaces/PetVirtual/PetVirtual/bin/Debug/net8.0/PetVirtual.runtimeconfig.json
+/workspaces/PetVirtual/PetVirtual/bin/Debug/net8.0/PetVirtual.dll
+/workspaces/PetVirtual/PetVirtual/bin/Debug/net8.0/PetVirtual.pdb
+/workspaces/PetVirtual/PetVirtual/obj/Debug/net8.0/PetVirtual.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/PetVirtual/PetVirtual/obj/Debug/net8.0/PetVirtual.AssemblyInfoInputs.cache
+/workspaces/PetVirtual/PetVirtual/obj/Debug/net8.0/PetVirtual.AssemblyInfo.cs
+/workspaces/PetVirtual/PetVirtual/obj/Debug/net8.0/PetVirtual.csproj.CoreCompileInputs.cache
+/workspaces/PetVirtual/PetVirtual/obj/Debug/net8.0/PetVirtual.sourcelink.json
+/workspaces/PetVirtual/PetVirtual/obj/Debug/net8.0/PetVirtual.dll
+/workspaces/PetVirtual/PetVirtual/obj/Debug/net8.0/refint/PetVirtual.dll
+/workspaces/PetVirtual/PetVirtual/obj/Debug/net8.0/PetVirtual.pdb
+/workspaces/PetVirtual/PetVirtual/obj/Debug/net8.0/PetVirtual.genruntimeconfig.cache
+/workspaces/PetVirtual/PetVirtual/obj/Debug/net8.0/ref/PetVirtual.dll
